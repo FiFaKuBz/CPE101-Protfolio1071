@@ -1,0 +1,7 @@
+div.landing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    background-color: (to bottom, #ECEDEF 0%, #ECEDEF 100%)
+}

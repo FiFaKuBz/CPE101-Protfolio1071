@@ -1,0 +1,42 @@
+.nav {
+    padding: 1rem;
+    background-color: #FFB703;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.nav-port {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.left-nav {
+    margin-left: 28px;
+}
+
+.right-nav {
+    margin-right: 28px;
+}
+
+.nav-link {
+    margin-left: 16px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+a {
+    color: #023047;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #023047c5;
+}
+
+.nav a:active {
+    color: #023047;
+}

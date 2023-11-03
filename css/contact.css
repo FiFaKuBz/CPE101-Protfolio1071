@@ -1,0 +1,15 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    background-color: #FB8500;
+}
+
+.contact .content {
+    display: flex;
+    align-items: center;
+}
+
+.contact .content .logo {
+    height: 40px;
+    margin-right: 20px;
+}
